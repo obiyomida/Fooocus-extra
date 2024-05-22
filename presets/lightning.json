@@ -46,7 +46,8 @@
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/SG161222/RealVisXL_V4.0_Lightning/blob/main/RealVisXL_V4.0_Lightning.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_4step_lora.safetensors"
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",
